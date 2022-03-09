@@ -5,13 +5,15 @@ Created on Fri Feb 18 08:55:03 2022
 @author: pekito
 """
 
-# IMPORTANTE
+# IMPORTANTE:
 # Este programa funciona, pero tiene problemas con las palabras con
 # letras repetidas, ya que si una está en la palabra y la otra no está,
 # el programa elimina todas las palabras que tengan incluso solamente una
 # copia de la letra. En el programa "programa wordle 2" se está creando
 # una función y modificando la función filtracion, aún sin éxito, para
-# solventar este problema.
+# solventar este problema. Si metes una palabra con dos letras repetidas y te sale
+# que una de las dos es verde o naranja y la otra gris, tendrás que poner la primera
+# como te sale y la segunda naranja en el programa.
 
 from typing import List
 

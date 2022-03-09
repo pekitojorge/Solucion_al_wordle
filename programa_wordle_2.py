@@ -5,7 +5,7 @@ Created on Fri Feb 18 08:55:03 2022
 @author: pekito
 """
 
-# IMPORTANTE
+# IMPORTANTE:
 # Este programa aún no funciona, ya que la corrección que se está intentando
 # hacer del programa "programa wordle" para que funcione todo correctamente
 # da problemas y no permite al programa funcionar. El problema está en las
