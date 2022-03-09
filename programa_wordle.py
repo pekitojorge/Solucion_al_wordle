@@ -12,8 +12,8 @@ Created on Fri Feb 18 08:55:03 2022
 # copia de la letra. En el programa "programa wordle 2" se está creando
 # una función y modificando la función filtracion, aún sin éxito, para
 # solventar este problema. Si metes una palabra con dos letras repetidas y te sale
-# que una de las dos es verde o naranja y la otra gris, tendrás que poner la primera
-# como te sale y la segunda naranja en el programa.
+# que una de las dos es verde o naranja y la otra gris, tendrás que poner la no gris
+# como te sale y la gris naranja en el programa.
 
 from typing import List
 
